@@ -131,14 +131,6 @@ AI-driven Threat Detection and Strategic Decision Support
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PandiriChandu&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
 # 📜 Certifications
 
 ✅ ServiceNow Certified System Administrator (CSA)
