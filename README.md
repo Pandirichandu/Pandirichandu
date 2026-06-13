@@ -2,8 +2,7 @@
 
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | ☁️ AWS Learner</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Applications;React+%7C+Django+%7C+Python;Open+to+Software+Engineering+Opportunities" /> 
 </p>
 
 <p align="center">
@@ -25,8 +24,9 @@
 </p>
 
 ---
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
 # 🚀 About Me
 
