@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Applications;React+%7C+Django+%7C+Python;Open+to+Software+Engineering+Opportunities" /> 
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://pandiri-chandu-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -24,7 +24,7 @@
 </p>
 
 ---
-<p align="center">
+<p align="Right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
