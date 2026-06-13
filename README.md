@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pandiri Chandu</h1>
 
-<h3 align="center">Full Stack Developer | AI Enthusiast | AWS Learner | Software Engineer</h3>
+<h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | ☁️ AWS Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;AWS+Cloud+Learner;Building+Scalable+Applications;React+%7C+Django+%7C+Python;Open+to+Software+Engineering+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Applications;React+%7C+Django+%7C+Python;Open+to+Software+Engineering+Opportunities" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=PandiriChandu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=PandiriChandu&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -30,13 +30,15 @@
 
 ---
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 # 🚀 About Me
 
 🎓 B.Tech Computer Science Engineering Student at GMR Institute of Technology
 
-📊 Current CGPA: **8.01**
+📊 CGPA: **8.01**
 
-💻 Full Stack Developer specializing in React.js, Django, REST APIs, Python, Java & MySQL
+💻 Full Stack Developer specializing in React.js, Django, REST APIs, Java, Python & MySQL
 
 🤖 Passionate about Artificial Intelligence, Machine Learning & Intelligent Systems
 
@@ -50,35 +52,53 @@
 
 ---
 
-# 🛠️ Tech Stack
+# 🔥 What I'm Currently Working On
 
-### Programming Languages
+🎯 Smart Attendance System
+
+🍽️ SaveServe Platform
+
+🎓 Automated College Placement Portal
+
+🤖 AI-Powered Interview Feedback System
+
+📊 Employee Productivity Analytics
+
+☁️ AWS Cloud Learning Path
+
+📚 Data Structures & System Design
+
+---
+
+# 🛠️ Tech Arsenal
+
+### 💻 Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### Frontend Development
+### 🎨 Frontend Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-### Backend Development
+### ⚙️ Backend Development
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
 
-### Database
+### 🗄️ Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-### Cloud & Tools
+### ☁️ Cloud & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
@@ -89,35 +109,21 @@
 
 ---
 
-# 🔥 Featured Projects
+# 🏆 Achievements
 
-### 🎯 Smart Attendance System
+🥇 ServiceNow Certified System Administrator (CSA)
 
-Face Recognition + QR Attendance + Analytics Dashboard
+📜 Published International Research Paper
 
-### 🍽️ SaveServe
+💼 Full Stack Developer Intern at Hippocloud Technologies
 
-AI-Powered Food Waste Reduction & Meal Prediction Platform
+🚀 Built Multiple Full Stack Applications
 
-### 🎓 Automated College Placement Portal
-
-Resume Analysis + Mock Interviews + Placement Prediction
-
-### 🎤 AI-Powered Interview Feedback System
-
-Speech Analysis + NLP + Personalized Feedback
-
-### 📊 Employee Productivity Analytics
-
-Emotion Detection + Behavioral Analytics
-
-### ⚔️ AI Warfare Decision System
-
-AI-driven Threat Detection and Strategic Decision Support
+📈 CGPA 8.01 in Computer Science Engineering
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PandiriChandu&show_icons=true&theme=tokyonight&rank_icon=github"/>
@@ -130,6 +136,7 @@ AI-driven Threat Detection and Strategic Decision Support
 </p>
 
 ---
+
 
 # 📜 Certifications
 
@@ -147,21 +154,35 @@ AI-driven Threat Detection and Strategic Decision Support
 
 # 🌐 Connect With Me
 
-💼 LinkedIn:
+💼 LinkedIn
 https://www.linkedin.com/in/pandiri-chandu-18719b2b6
 
-🌐 Portfolio:
+🌐 Portfolio
 https://pandiri-chandu-portfolio.vercel.app/
 
-💻 GitHub:
+💻 GitHub
 https://github.com/PandiriChandu
 
-🧠 LeetCode:
+🧠 LeetCode
 https://leetcode.com/u/chandupandiri265/
 
-📧 Email:
+📧 Email
 [chandupandiri265@gmail.com](mailto:chandupandiri265@gmail.com)
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! Let's connect and build something amazing together 🚀</h3>
+# ⚡ Fun Facts
+
+💡 Love Building Real-World Products
+
+🤖 Interested in Artificial Intelligence & SaaS Startups
+
+☁️ Learning AWS & Cloud Architecture
+
+🚀 Always Exploring New Technologies
+
+🎯 Goal: Become a Top Software Engineer
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! Let's Connect and Build Something Amazing Together 🚀</h3>
