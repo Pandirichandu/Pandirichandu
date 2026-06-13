@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi 👋, I'm Pandiri Chandu
 
-<!--
-**Pandirichandu/Pandirichandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* 🎓 B.Tech Computer Science Engineering Student (CGPA: 8.01)
+* 💻 Full Stack Developer
+* 🤖 AI & Machine Learning Enthusiast
+* ☁️ AWS Learner
+* 🏆 Published Research Paper on AI in Warfare Military Applications
+* 💼 Full Stack Developer Intern at Hippocloud Technologies
+* 🚀 Building Real-World SaaS Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+
+Java • Python • JavaScript • SQL
+
+### Frontend
+
+React.js • HTML • CSS • Tailwind CSS
+
+### Backend
+
+Django • Flask • REST APIs
+
+### Database
+
+MySQL • PostgreSQL • SQLite
+
+### Cloud & Tools
+
+AWS • Firebase • Git • GitHub • Postman • Vercel
+
+## 🔥 Current Projects
+
+### Smart Attendance System
+
+Face Recognition + QR Attendance + Analytics Dashboard
+
+### SaveServe
+
+AI-Powered Food Waste Reduction & Meal Prediction Platform
+
+### Automated College Placement Portal
+
+Resume Analysis + Mock Interviews + Placement Prediction
+
+### AI-Powered Interview Feedback System
+
+Speech Analysis + NLP + Personalized Feedback
+
+### Employee Productivity Analytics
+
+Emotion Detection + Behavioral Analytics
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PandiriChandu\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PandiriChandu\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PandiriChandu\&layout=compact\&theme=tokyonight)
+
+## 🏆 Certifications
+
+* ServiceNow Certified System Administrator (CSA)
+* HackerRank SQL (Basic)
+* HackerRank SQL (Intermediate)
+* HackerRank Python (Basic)
+* HackerRank Java (Basic)
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/pandiri-chandu-18719b2b6
+* GitHub: https://github.com/PandiriChandu
+* LeetCode: https://leetcode.com/u/chandupandiri265/
+* Portfolio: Add Your Portfolio Link
+* CodeChef: Add Your CodeChef Link
+
+⭐ Thanks for visiting my profile!
