@@ -75,7 +75,7 @@ Emotion Detection + Behavioral Analytics
 * LinkedIn: https://www.linkedin.com/in/pandiri-chandu-18719b2b6
 * GitHub: https://github.com/PandiriChandu
 * LeetCode: https://leetcode.com/u/chandupandiri265/
-* Portfolio: Add Your Portfolio Link
-* CodeChef: Add Your CodeChef Link
+* Portfolio: https://pandiri-chandu-portfolio.vercel.app/
+* CodeChef: https://www.codechef.com/users/chandupandiri1
 
 ⭐ Thanks for visiting my profile!
