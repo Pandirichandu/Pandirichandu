@@ -1,63 +1,68 @@
-<h1 align="center">Hi 👋, I'm Pandiri Chandu</h1>
+# Hi 👋, I'm Pandiri Chandu
 
-<h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | ☁️ AWS Learner</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Applications;React+%7C+Django+%7C+Python;AWS+Cloud+Learner;Open+to+Software+Engineering+Opportunities" />
-</p>
+<h3 align="center">
+🚀 Full Stack Developer | 🤖 AI Enthusiast | ☁️ AWS Learner
+</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=PandiriChandu&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Django+%7C+Python+Developer;AWS+Cloud+Learner;AI+%26+Machine+Learning+Enthusiast;Building+Impactful+Software+Products" />
 </p>
 
 <p align="center">
 <a href="https://pandiri-chandu-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pandiri-chandu-18719b2b6">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://leetcode.com/u/chandupandiri265/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="mailto:chandupandiri265@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 <table>
 <tr>
 
-<td width="65%" valign="top">
+<td width="65%">
 
-🎓 B.Tech Computer Science Engineering Student at GMR Institute of Technology
+🎓 B.Tech Graduate in Computer Science Engineering
 
-📊 CGPA: **8.01**
+📊 CGPA: 8.01
 
-💻 Full Stack Developer specializing in React.js, Django, REST APIs, Java, Python & MySQL
+💻 Full Stack Developer specializing in:
+
+* React.js
+* Django
+* REST APIs
+* Java
+* Python
+* MySQL
 
 🤖 Passionate about Artificial Intelligence, Machine Learning & Intelligent Systems
 
-☁️ Currently learning AWS Cloud Computing & Scalable Architectures
+☁️ Learning AWS Cloud Computing, DevOps & Scalable Architectures
 
 💼 Full Stack Developer Intern at Hippocloud Technologies
 
 🏆 Published Research Paper on Artificial Intelligence in Warfare Military Applications
 
-🎯 Aspiring Software Engineer focused on building impactful real-world applications
+🎯 Focused on building scalable software products and growing as a Software Engineer
 
 </td>
 
-<td width="35%" valign="top" align="center">
+<td width="35%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
 </td>
 
@@ -66,76 +71,92 @@
 
 ---
 
-## 🔥 Currently Working On
+# 🎯 Current Focus
 
-* 🎯 Smart Attendance System
-* 🍽️ SaveServe Platform
-* 🎓 Automated College Placement Portal
-* 🤖 AI-Powered Interview Feedback System
-* 📊 Employee Productivity Analytics
-* ☁️ AWS Cloud Learning Path
-* 📚 Data Structures & System Design
+✅ Smart Attendance System
 
----
+✅ SaveServe Platform
 
-## 🛠️ Tech Stack
+✅ Automated College Placement Portal
 
-### 💻 Languages
+✅ AI Interview Feedback System
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+✅ AWS Cloud Learning Journey
 
-### 🎨 Frontend
+✅ Data Structures & Algorithms
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
-### ⚙️ Backend
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-### ☁️ Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+✅ System Design & Backend Development
 
 ---
 
-## 🏆 Achievements
+# 🛠️ Tech Arsenal
 
-🥇 ServiceNow Certified System Administrator (CSA)
+### Programming Languages
 
-📜 Published Research Paper on Artificial Intelligence in Warfare Military Applications
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
+</p>
 
-💼 Full Stack Developer Intern at Hippocloud Technologies
+### Frontend Development
 
-🚀 Built Multiple Full Stack Applications
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite" />
+</p>
 
-📈 CGPA 8.01 in Computer Science Engineering
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+# 🚀 Featured Projects
+
+### 📌 Smart Attendance System
+
+AI-powered attendance management using Face Recognition, QR Codes, Django & React.
+
+### 📌 SaveServe
+
+AI-powered smart meal prediction and food waste reduction platform.
+
+### 📌 Automated College Placement Portal
+
+Full-stack placement management system with AI-powered resume analysis.
+
+### 📌 Employee Productivity Analytics
+
+Monitor productivity using emotion detection and behavioral analytics.
+
+### 📌 AI Interview Feedback System
+
+Generate interview feedback and improve candidate performance using AI.
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PandiriChandu&show_icons=true&theme=tokyonight&rank_icon=github"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PandiriChandu&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandiriChandu&layout=compact&theme=tokyonight"/>
 </p>
 
@@ -145,7 +166,7 @@
 
 ---
 
-## 🏅 GitHub Trophies
+# 🏅 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=PandiriChandu&theme=tokyonight&row=1&column=7"/>
@@ -153,21 +174,35 @@
 
 ---
 
-## 📜 Certifications
+# 🏆 Achievements
 
-✅ ServiceNow Certified System Administrator (CSA)
+🥇 Published Research Paper on Artificial Intelligence in Warfare Military Applications
 
-✅ HackerRank SQL (Basic)
+🥇 Full Stack Developer Internship Experience
 
-✅ HackerRank SQL (Intermediate)
+🥇 Developed Multiple Full Stack Applications
 
-✅ HackerRank Python (Basic)
+🥇 Strong Foundation in Data Structures & Algorithms
 
-✅ HackerRank Java (Basic)
+🥇 AWS Cloud Learning Journey
 
 ---
 
-## 🌐 Connect With Me
+# ⚡ Fun Facts
+
+💡 Passionate About Building Real-World Applications
+
+🤖 Interested in AI, SaaS Products & Emerging Technologies
+
+☁️ Exploring Cloud Computing & Scalable Systems
+
+📚 Lifelong Learner & Problem Solver
+
+🎯 Working Towards Becoming a High-Impact Software Engineer
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -187,18 +222,6 @@
 
 ---
 
-## ⚡ Fun Facts
-
-💡 Love Building Real-World Products
-
-🤖 Interested in Artificial Intelligence & SaaS Startups
-
-☁️ Learning AWS & Cloud Architecture
-
-🚀 Always Exploring New Technologies
-
-🎯 Goal: Become a Top Software Engineer
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile! Let's Connect and Build Something Amazing Together 🚀</h3>
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
