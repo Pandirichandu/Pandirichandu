@@ -166,14 +166,6 @@ Generate interview feedback and improve candidate performance using AI.
 
 ---
 
-# 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PandiriChandu&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
 # 🏆 Achievements
 
 🥇 Published Research Paper on Artificial Intelligence in Warfare Military Applications
