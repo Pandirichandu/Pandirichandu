@@ -1,11 +1,16 @@
-<h1 align="center">Hi There 👋, I'm Pandiri Chandu</h1>
+<h1 align="center">Hi 👋, I'm Pandiri Chandu</h1>
 
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | ☁️ AWS Learner</h3>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Applications;React+%7C+Django+%7C+Python;Open+to+Software+Engineering+Opportunities" /> 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Applications;React+%7C+Django+%7C+Python;AWS+Cloud+Learner;Open+to+Software+Engineering+Opportunities" />
 </p>
 
-<p align="left">
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=PandiriChandu&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
+<p align="center">
 <a href="https://pandiri-chandu-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -25,8 +30,7 @@
 
 ---
 
-
-# 🚀 About Me
+## 🚀 About Me
 
 <table>
 <tr>
@@ -53,7 +57,7 @@
 
 <td width="35%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
 </td>
 
@@ -62,43 +66,35 @@
 
 ---
 
----
+## 🔥 Currently Working On
 
-# 🔥 What I'm Currently Working On
-
-🎯 Smart Attendance System
-
-🍽️ SaveServe Platform
-
-🎓 Automated College Placement Portal
-
-🤖 AI-Powered Interview Feedback System
-
-📊 Employee Productivity Analytics
-
-☁️ AWS Cloud Learning Path
-
-📚 Data Structures & System Design
+* 🎯 Smart Attendance System
+* 🍽️ SaveServe Platform
+* 🎓 Automated College Placement Portal
+* 🤖 AI-Powered Interview Feedback System
+* 📊 Employee Productivity Analytics
+* ☁️ AWS Cloud Learning Path
+* 📚 Data Structures & System Design
 
 ---
 
-# 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
@@ -121,11 +117,11 @@
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 🥇 ServiceNow Certified System Administrator (CSA)
 
-📜 Published International Research Paper
+📜 Published Research Paper on Artificial Intelligence in Warfare Military Applications
 
 💼 Full Stack Developer Intern at Hippocloud Technologies
 
@@ -135,7 +131,7 @@
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PandiriChandu&show_icons=true&theme=tokyonight&rank_icon=github"/>
@@ -149,8 +145,15 @@
 
 ---
 
+## 🏅 GitHub Trophies
 
-# 📜 Certifications
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PandiriChandu&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+## 📜 Certifications
 
 ✅ ServiceNow Certified System Administrator (CSA)
 
@@ -164,26 +167,27 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-💼 LinkedIn
-https://www.linkedin.com/in/pandiri-chandu-18719b2b6
+<p align="center">
 
-🌐 Portfolio
-https://pandiri-chandu-portfolio.vercel.app/
+<a href="https://pandiri-chandu-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
-💻 GitHub
-https://github.com/PandiriChandu
+<a href="https://www.linkedin.com/in/pandiri-chandu-18719b2b6">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-🧠 LeetCode
-https://leetcode.com/u/chandupandiri265/
+<a href="https://leetcode.com/u/chandupandiri265/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
-📧 Email
-[chandupandiri265@gmail.com](mailto:chandupandiri265@gmail.com)
+</p>
 
 ---
 
-# ⚡ Fun Facts
+## ⚡ Fun Facts
 
 💡 Love Building Real-World Products
 
