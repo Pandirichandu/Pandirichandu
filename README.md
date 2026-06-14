@@ -24,11 +24,14 @@
 </p>
 
 ---
-<p align="Right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
+
 
 # 🚀 About Me
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
 
 🎓 B.Tech Computer Science Engineering Student at GMR Institute of Technology
 
@@ -45,6 +48,19 @@
 🏆 Published Research Paper on Artificial Intelligence in Warfare Military Applications
 
 🎯 Aspiring Software Engineer focused on building impactful real-world applications
+
+</td>
+
+<td width="35%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ---
 
