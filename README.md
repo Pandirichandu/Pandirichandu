@@ -1,11 +1,15 @@
 # Hi 👋, I'm Pandiri Chandu
 
 <h3 align="center">
-🚀 Full Stack Developer | 🤖 AI Enthusiast | ☁️ AWS Learner
+🚀 Full Stack Developer | 🤖 AI & Machine Learning Enthusiast | ☁️ AWS Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Django+%7C+Python+Developer;AWS+Cloud+Learner;AI+%26+Machine+Learning+Enthusiast;Building+Impactful+Software+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Django+%7C+Python+Developer;AI+%26+Machine+Learning+Enthusiast;AWS+Cloud+Learner;Building+Impactful+Software+Products" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=PandiriChandu&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -17,12 +21,12 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
 <a href="https://leetcode.com/u/chandupandiri265/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="mailto:chandupandiri265@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
@@ -30,71 +34,40 @@
 
 # 🚀 About Me
 
-<table>
-<tr>
+🎓 **B.Tech Graduate in Computer Science Engineering**
 
-<td width="65%">
+📊 **CGPA:** 8.01
 
-🎓 B.Tech Graduate in Computer Science Engineering
+💻 Full Stack Developer with experience in **React.js, Django, Python, Java, REST APIs, and MySQL**
 
-📊 CGPA: 8.01
+🤖 Passionate about **Artificial Intelligence, Machine Learning, and Intelligent Systems**
 
-💻 Full Stack Developer specializing in:
+☁️ Exploring **AWS Cloud Computing, DevOps, and Scalable Architectures**
 
-* React.js
-* Django
-* REST APIs
-* Java
-* Python
-* MySQL
+💼 Former **Full Stack Developer Intern at Hippocloud Technologies**
 
-🤖 Passionate about Artificial Intelligence, Machine Learning & Intelligent Systems
+🏆 Published a **Research Paper on Artificial Intelligence in Warfare Military Applications**
 
-☁️ Learning AWS Cloud Computing, DevOps & Scalable Architectures
-
-💼 Full Stack Developer Intern at Hippocloud Technologies
-
-🏆 Published Research Paper on Artificial Intelligence in Warfare Military Applications
-
-🎯 Focused on building scalable software products and growing as a Software Engineer
-
-</td>
-
-<td width="35%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-
-</td>
-
-</tr>
-</table>
+🎯 Focused on building impactful software products and growing as a Software Engineer
 
 ---
 
 # 🎯 Current Focus
 
-✅ Smart Attendance System
-
-✅ SaveServe Platform
-
-✅ Automated College Placement Portal
-
-✅ AI Interview Feedback System
-
-✅ AWS Cloud Learning Journey
-
-✅ Data Structures & Algorithms
-
-✅ System Design & Backend Development
+* 🚀 Building Real-World Full Stack Applications
+* 🤖 Exploring AI & Machine Learning Solutions
+* ☁️ Learning AWS Cloud & DevOps Practices
+* 📚 Strengthening Data Structures & Algorithms
+* 🏗️ Understanding System Design & Scalable Architectures
 
 ---
 
-# 🛠️ Tech Arsenal
+# 🛠️ Tech Stack
 
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
 </p>
 
 ### Frontend Development
@@ -115,39 +88,33 @@
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
 </p>
 
-### Cloud & DevOps
+### Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 📌 Smart Attendance System
+### 🎯 Smart Attendance System
 
 AI-powered attendance management using Face Recognition, QR Codes, Django & React.
 
-### 📌 SaveServe
+### 🍽️ SaveServe
 
-AI-powered smart meal prediction and food waste reduction platform.
+AI-powered food waste reduction and smart meal prediction platform.
 
-### 📌 Automated College Placement Portal
+### 🎓 Automated College Placement Portal
 
 Full-stack placement management system with AI-powered resume analysis.
 
-### 📌 Employee Productivity Analytics
+### 📊 Employee Productivity Analytics
 
-Monitor productivity using emotion detection and behavioral analytics.
+Productivity monitoring using emotion detection and behavioral analytics.
 
-### 📌 AI Interview Feedback System
+### 🤖 AI Interview Feedback System
 
 Generate interview feedback and improve candidate performance using AI.
 
@@ -157,6 +124,7 @@ Generate interview feedback and improve candidate performance using AI.
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PandiriChandu&show_icons=true&theme=tokyonight"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandiriChandu&layout=compact&theme=tokyonight"/>
 </p>
 
@@ -166,7 +134,29 @@ Generate interview feedback and improve candidate performance using AI.
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PandiriChandu&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📜 Certifications
+
+✅ ServiceNow Certified System Administrator (CSA)
+
+✅ HackerRank SQL (Basic)
+
+✅ HackerRank SQL (Intermediate)
+
+✅ HackerRank Python (Basic)
+
+✅ HackerRank Java (Basic)
+
+---
+
+# 🏅 Achievements
 
 🥇 Published Research Paper on Artificial Intelligence in Warfare Military Applications
 
@@ -214,6 +204,8 @@ Generate interview feedback and improve candidate performance using AI.
 
 ---
 
-<p align="center">
-⭐ If you like my work, consider giving a star to my repositories!
-</p>
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+<br>
+Let's Connect, Collaborate & Build Something Amazing 🚀
+</h3>
