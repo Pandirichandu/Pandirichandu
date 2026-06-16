@@ -67,7 +67,7 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
 ### Frontend Development
@@ -130,14 +130,6 @@ Generate interview feedback and improve candidate performance using AI.
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PandiriChandu&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PandiriChandu&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
