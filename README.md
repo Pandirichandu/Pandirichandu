@@ -1,11 +1,11 @@
 # Hi 👋, I'm Pandiri Chandu
 
 <h3 align="center">
-🚀 Full Stack Developer | 🤖 AI & Machine Learning Enthusiast | ☁️ AWS Learner
+📊 Aspiring Data Engineer | 🐍 Python & SQL | ☁️ Azure & Microsoft Fabric | 💻 Full Stack Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Django+%7C+Python+Developer;AI+%26+Machine+Learning+Enthusiast;AWS+Cloud+Learner;Building+Impactful+Software+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Aspiring+Data+Engineer;Python+%7C+SQL+Developer;Azure+%7C+Microsoft+Fabric+Learner;Data+Engineering+Enthusiast;Full+Stack+Development+Background;Building+Data-Driven+Solutions" />
 </p>
 
 <p align="center">
@@ -13,166 +13,231 @@
 </p>
 
 <p align="center">
+
 <a href="https://pandiri-chandu-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pandiri-chandu-18719b2b6">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/chandupandiri265/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="mailto:chandupandiri265@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 **B.Tech Graduate in Computer Science Engineering**
+🎓 **B.Tech Graduate in Computer Science & Engineering**
 
-📊 **CGPA:** 8.01
+📊 **CGPA: 8.01**
 
-💻 Full Stack Developer with experience in **React.js, Django, Python, Java, REST APIs, and MySQL**
+🐍 Building a strong foundation in **Python, SQL, Data Engineering, and Data Analytics**
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, and Intelligent Systems**
+☁️ Learning and working with **Microsoft Azure and Microsoft Fabric**
 
-☁️ Exploring **AWS Cloud Computing, DevOps, and Scalable Architectures**
+💻 Background in **Full Stack Development** with React.js, Django, Node.js, REST APIs, and databases
 
-💼 Former **Full Stack Developer Intern at Hippocloud Technologies**
+📚 Interested in **ETL/ELT, data pipelines, data transformation, cloud data platforms, and analytics**
 
-🏆 Published a **Research Paper on Artificial Intelligence in Warfare Military Applications**
+🏆 Published research work on **Artificial Intelligence in Warfare / Military Applications**
 
-🎯 Focused on building impactful software products and growing as a Software Engineer
-
----
-
-# 🎯 Current Focus
-
-* 🚀 Building Real-World Full Stack Applications
-* 🤖 Exploring AI & Machine Learning Solutions
-* ☁️ Learning AWS Cloud & DevOps Practices
-* 📚 Strengthening Data Structures & Algorithms
-* 🏗️ Understanding System Design & Scalable Architectures
+🎯 Currently focused on developing practical **Data Engineering and cloud-based data solutions**
 
 ---
 
-# 🛠️ Tech Stack
+## 🎯 Current Focus
 
-### Programming Languages
+* 📊 Data Engineering & Data Analytics
+* 🐍 Python for Data Engineering
+* 🗄️ SQL & Database Management
+* ☁️ Microsoft Azure
+* 🔷 Microsoft Fabric
+* 🔄 ETL / ELT Pipelines
+* 📦 Data Warehousing & Data Lakes
+* ⚡ PySpark & Big Data Technologies
+* 📈 Data Transformation & Analytics
+* 💻 Full Stack Development as a supporting skill
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
-### Frontend Development
+### 📊 Data & Analytics
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
 </p>
 
-### Backend Development
+**Python • SQL • Pandas • NumPy • Data Analysis • ETL Concepts • Data Pipelines**
+
+### ☁️ Cloud & Data Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=azure,aws,docker" />
 </p>
 
-### Databases
+**Microsoft Azure • Microsoft Fabric • Azure Data Engineering • Cloud Fundamentals • PySpark**
+
+### 🌐 Full Stack Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
+<img src="https://skillicons.dev/icons?i=react,django,nodejs,express,html,css,tailwind,vite" />
 </p>
 
-### Cloud & Tools
+**React.js • Django • Node.js • Express.js • REST APIs • HTML • CSS • Tailwind CSS**
+
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
+</p>
+
+**MySQL • PostgreSQL • MongoDB • SQLite**
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🎯 Smart Attendance System
+## 🎯 Aegis — Hybrid Multi-Mode AI Smart Attendance System
 
-AI-powered attendance management using Face Recognition, QR Codes, Django & React.
+An intelligent attendance management platform combining multiple attendance mechanisms.
 
-### 🍽️ SaveServe
+**Key Features:**
 
-AI-powered food waste reduction and smart meal prediction platform.
+* Face Recognition
+* QR Code Attendance
+* GPS Geofencing
+* Leave Management
+* Attendance Analytics
+* Role-Based Access Control
+* Real-Time Communication
 
-### 🎓 Automated College Placement Portal
-
-Full-stack placement management system with AI-powered resume analysis.
-
-### 📊 Employee Productivity Analytics
-
-Productivity monitoring using emotion detection and behavioral analytics.
-
-### 🤖 AI Interview Feedback System
-
-Generate interview feedback and improve candidate performance using AI.
+**Tech:** React.js • Django • Django REST Framework • PostgreSQL • WebSockets • JWT
 
 ---
 
-# 📊 GitHub Analytics
+## 🍽️ Meal Matrix — Smart Food Management System
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PandiriChandu&show_icons=true&theme=tokyonight"/>
+A smart college meal management platform designed to improve meal planning, verification, and food-demand monitoring.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandiriChandu&layout=compact&theme=tokyonight"/>
-</p>
+**Key Features:**
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PandiriChandu&theme=tokyonight"/>
-</p>
+* QR-Based Meal Verification
+* Automated Meal Booking
+* Role-Based Access Control
+* Food Demand Monitoring
+* Analytics Dashboard
+* JWT Authentication
+
+**Tech:** Next.js • React • TypeScript • Tailwind CSS • Node.js • Express.js • MongoDB • Vercel
+
+---
+
+## 🎓 Automated College Placement Portal
+
+A full-stack placement management platform with intelligent resume analysis and placement-related features.
+
+**Features:**
+
+* Student Management
+* Resume Analysis
+* Placement Tracking
+* Mock Interviews
+* Placement Prediction
+* Admin Dashboard
+
+**Tech:** React.js • Django • Python • SQL
+
+---
+
+
+## 📊 Employee Productivity Analytics
+
+An analytics-oriented application exploring employee productivity through behavioral and emotion-related data.
+
+**Focus Areas:**
+
+* Data Analysis
+* Behavioral Analytics
+* Emotion Detection
+* Productivity Insights
 
 ---
 
 # 📜 Certifications
 
-✅ ServiceNow Certified System Administrator (CSA)
-
-✅ HackerRank SQL (Basic)
-
-✅ HackerRank SQL (Intermediate)
-
-✅ HackerRank Python (Basic)
-
-✅ HackerRank Java (Basic)
+* 🏅 **Microsoft Certified: Azure Fundamentals**
+* 🏅 ServiceNow Certified System Administrator (CSA)
+* 🏅 HackerRank SQL (Basic)
+* 🏅 HackerRank SQL (Intermediate)
+* 🏅 HackerRank Python (Basic)
+* 🏅 HackerRank Java (Basic)
 
 ---
 
-# 🏅 Achievements
+# 📚 Currently Learning
 
-🥇 Published Research Paper on Artificial Intelligence in Warfare Military Applications
-
-🥇 Full Stack Developer Internship Experience
-
-🥇 Developed Multiple Full Stack Applications
-
-🥇 Strong Foundation in Data Structures & Algorithms
-
-🥇 AWS Cloud Learning Journey
+```text
+Python
+  ↓
+Advanced SQL
+  ↓
+Data Engineering Fundamentals
+  ↓
+ETL / ELT
+  ↓
+Azure Data Services
+  ↓
+Microsoft Fabric
+  ↓
+PySpark
+  ↓
+Data Pipelines & Data Warehousing
+```
 
 ---
 
-# ⚡ Fun Facts
+# 🏆 Achievements
 
-💡 Passionate About Building Real-World Applications
+* 🎓 B.Tech Graduate in Computer Science & Engineering
+* 📊 CGPA: **8.01**
+* 🏆 Published research work on Artificial Intelligence in Warfare / Military Applications
+* 💻 Developed multiple full-stack and AI-based academic projects
+* ☁️ Microsoft Certified: Azure Fundamentals
+* 📚 Continuously developing skills in Data Engineering and Cloud Technologies
 
-🤖 Interested in AI, SaaS Products & Emerging Technologies
+---
 
-☁️ Exploring Cloud Computing & Scalable Systems
+# 📊 GitHub Analytics
 
-📚 Lifelong Learner & Problem Solver
 
-🎯 Working Towards Becoming a High-Impact Software Engineer
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PandiriChandu&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
@@ -181,15 +246,19 @@ Generate interview feedback and improve candidate performance using AI.
 <p align="center">
 
 <a href="https://pandiri-chandu-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/pandiri-chandu-18719b2b6">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/pandirichandu-cp23/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/chandupandiri265/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:chandupandiri265@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -197,7 +266,7 @@ Generate interview feedback and improve candidate performance using AI.
 ---
 
 <h3 align="center">
+🚀 Building • Learning • Improving
+<br><br>
 ⭐ Thanks for visiting my profile!
-<br>
-Let's Connect, Collaborate & Build Something Amazing 🚀
 </h3>
