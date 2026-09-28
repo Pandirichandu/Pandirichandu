@@ -270,7 +270,7 @@ Data Pipelines & Data Warehousing
 ---
 
 <h3 align="center">
-🚀 Building • Learning • Improving
+🚀 Building • Learning • Improving • Innovate
 <br><br>
 ⭐ Thanks for visiting my profile!
 </h3>
