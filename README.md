@@ -187,12 +187,14 @@ An analytics-oriented application exploring employee productivity through behavi
 
 # 📜 Certifications
 
-* 🏅 **Microsoft Certified: Azure Fundamentals**
-* 🏅 ServiceNow Certified System Administrator (CSA)
-* 🏅 HackerRank SQL (Basic)
-* 🏅 HackerRank SQL (Intermediate)
-* 🏅 HackerRank Python (Basic)
-* 🏅 HackerRank Java (Basic)
+* 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)**
+* 🏅 **Microsoft Certified: Fabric Data Engineer Associate (DP-700)**
+* 🏅 **ServiceNow Certified System Administrator (CSA)**
+* 🏅 **HackerRank SQL (Basic)**
+* 🏅 **HackerRank SQL (Intermediate)**
+* 🏅 **HackerRank Python (Basic)**
+* 🏅 **HackerRank Java (Basic)**
+
 
 ---
 
@@ -220,12 +222,14 @@ Data Pipelines & Data Warehousing
 
 # 🏆 Achievements
 
-* 🎓 B.Tech Graduate in Computer Science & Engineering
-* 📊 CGPA: **8.01**
-* 🏆 Published research work on Artificial Intelligence in Warfare / Military Applications
-* 💻 Developed multiple full-stack and AI-based academic projects
-* ☁️ Microsoft Certified: Azure Fundamentals
-* 📚 Continuously developing skills in Data Engineering and Cloud Technologies
+* 🎓 **B.Tech Graduate in Computer Science & Engineering** with a CGPA of **8.01**
+* 🏆 **Published Research Paper** on Artificial Intelligence in Warfare / Military Applications
+* 💻 **Developed Multiple Full-Stack & AI-Based Projects** during academic and project work
+* ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
+* 📊 **Building Expertise in Data Engineering** with Python, SQL, Azure & Microsoft Fabric
+* 🧩 **Strong Foundation in Programming, Databases & Software Development**
+* 🚀 **Actively Building Data Engineering & Cloud-Based Projects**
+
 
 ---
 
